@@ -18,6 +18,7 @@ JFrog is a company that provides various solutions for managing and distributing
 ### after installation docker using this link
 [Install docker](https://docs.docker.com/engine/install/ubuntu/)
 
+### run these commands
 ```bash
 mkdir -p $JFROG_HOME/artifactory/var/etc/
 cd $JFROG_HOME/artifactory/var/etc/
